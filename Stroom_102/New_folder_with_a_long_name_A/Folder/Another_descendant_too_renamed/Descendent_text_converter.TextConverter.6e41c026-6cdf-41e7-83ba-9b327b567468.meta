@@ -1,0 +1,7 @@
+{
+  "type" : "TextConverter",
+  "uuid" : "6e41c026-6cdf-41e7-83ba-9b327b567468",
+  "name" : "Descendent text converter",
+  "version" : "7ddc8437-643b-4827-bf4d-7d0defa4afcc",
+  "converterType" : "NONE"
+}
